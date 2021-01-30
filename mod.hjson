@@ -1,0 +1,6 @@
+name: "grid"
+displayName: "grid" //what displays in the mod selection menu
+author: "author"
+description: "a grid"
+version: "-1"
+minGameVersion: "112"
